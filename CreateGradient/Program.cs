@@ -5,7 +5,7 @@
   DATE:			March 2, 2020
   DESCRIPTION:	This file holds the main function.
 
-  This program will create and save bitmap images. The images can very in size and will show a rainbow gradient
+  This program will create and save bitmap images. The images can vary in size and will show a rainbow gradient
   with all the possible colors.
 =========================================================================================================== */
 
